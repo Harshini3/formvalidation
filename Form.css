@@ -1,0 +1,34 @@
+.main
+{
+  display: block;
+    width: 80%;
+            margin: 0 auto;
+            padding: 50px;   
+ background-color: #f2f2f2; 
+ background-image: url('./image/img2.jpg');
+ 
+}
+select{
+  padding: 10px;
+}
+label{
+  width: 100%;
+  margin: 8px 0;
+  box-sizing: border-box;
+  color:black;
+  font-family: cursive;
+}
+form input {
+
+    padding: 10px;
+    border: solid 1px #BDC7D8;
+  }
+form{
+
+    margin: 0 auto;
+    width: 20%;
+}
+button{
+   padding: 20px;
+   margin: 20%;
+}
